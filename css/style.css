@@ -301,7 +301,7 @@ footer a:hover {
     font-size: 4vw;
   }
 
-  .femdict_grid dl{
+  .femdict dl{
     display: grid;
     border: 0.3vw solid rgba(96, 15, 71, 1);
     border-radius: 3vw;
@@ -310,7 +310,7 @@ footer a:hover {
     background-color: lightyellow;
   }
 
-  .femdict_grid dt{
+  .femdict dt{
     background-color: rgba(96, 15, 71, 1);
     color: #FFC200;
     text-align: center;
@@ -320,7 +320,7 @@ footer a:hover {
     width: 100%;
   }
 
-  .femdict_grid dd{
+  .femdict dd{
     border: 0.3vw solid rgba(96, 15, 71, 1);
     border-radius: 3vw;
     padding: 1vw;
@@ -464,6 +464,7 @@ footer a:hover {
 
   nav img {
     width: 20vw;
+    border: none;
   }
 
   nav a img:hover {
@@ -607,7 +608,7 @@ footer a:hover {
     font-size: 4vw;
   }
 
-  .femdict_grid dl{
+  .femdict dl{
     display: grid;
     border: 0.3vw solid rgba(96, 15, 71, 1);
     border-radius: 3vw;
@@ -616,7 +617,7 @@ footer a:hover {
     background-color: lightyellow;
   }
 
-  .femdict_grid dt{
+  .femdict dt{
     background-color: rgba(96, 15, 71, 1);
     color: #FFC200;
     text-align: center;
@@ -626,7 +627,7 @@ footer a:hover {
     width: 100%;
   }
 
-  .femdict_grid dd{
+  .femdict dd{
     border: 0.3vw solid rgba(96, 15, 71, 1);
     border-radius: 3vw;
     padding: 1vw;
@@ -890,7 +891,7 @@ footer a:hover {
     font-size: 4vw;
   }
 
-  .femdict_grid dl{
+  .femdict dl{
     display: grid;
     border: 0.3vw solid rgba(96, 15, 71, 1);
     border-radius: 3vw;
@@ -899,7 +900,7 @@ footer a:hover {
     background-color: lightyellow;
   }
 
-  .femdict_grid dt{
+  .femdict dt{
     background-color: rgba(96, 15, 71, 1);
     color: #FFC200;
     text-align: center;
@@ -909,7 +910,7 @@ footer a:hover {
     width: 100%;
   }
 
-  .femdict_grid dd{
+  .femdict dd{
     border: 0.3vw solid rgba(96, 15, 71, 1);
     border-radius: 3vw;
     padding: 1vw;
